@@ -1,0 +1,2 @@
+pyinstaller --onefile -w -F --hidden-import="sklearn" --hidden-import="sklearn.utils._weight_vector"  main.py
+used for making installer

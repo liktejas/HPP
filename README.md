@@ -1,6 +1,6 @@
 # House Pricing Prediction
 
-Predicts the price of houses of Bengaluru City.
+Predicts the price of houses in Bengaluru City.
 
 ## Process:
 Price Prediction depends upon 4 factors i.e. Location , Area in sqft, Rooms and Bathrooms. Dataset of Bengaluru City is used in this project for price prediction.
